@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDSApi", "MDSApi\MDSApi.csproj", "{67C17918-023D-41EB-A8D0-25CF1B7296D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C17918-023D-41EB-A8D0-25CF1B7296D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C17918-023D-41EB-A8D0-25CF1B7296D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C17918-023D-41EB-A8D0-25CF1B7296D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C17918-023D-41EB-A8D0-25CF1B7296D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD7EACE-0CBC-4D1F-89D1-E5A26B8FCE59}
+	EndGlobalSection
+EndGlobal
